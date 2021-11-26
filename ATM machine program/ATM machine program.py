@@ -252,5 +252,5 @@ while chances >= 0:
         print("Incorrect Password")
         chances = chances - 1
         if chances == 0:
-            print("\nNo More Tries")1
+            print("\nNo More Tries")
             break
